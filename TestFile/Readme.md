@@ -1,0 +1,1 @@
++ changeFile.py :	Change The file of INPUT and Standard OUTPUT TO SPical Format! 
